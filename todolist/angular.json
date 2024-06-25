@@ -26,8 +26,8 @@
                 "input": "public"
               }
             ],
-            "styles": [
-              "src/styles.css"
+            "styles": [              
+              "src/styles.css"              
             ],
             "scripts": []
           },
@@ -92,5 +92,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "a2b00e64-5d1d-4751-bafc-5eedf3d01d83"
   }
 }
